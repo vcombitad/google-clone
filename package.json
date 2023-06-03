@@ -1,0 +1,20 @@
+{
+  "name": "google-clone",
+  "version": "1.0.0",
+  "description": "This is a repository maked using html5 and css3.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vcombitad/google-clone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vcombitad/google-clone/issues"
+  },
+  "homepage": "https://github.com/vcombitad/google-clone#readme"
+}
